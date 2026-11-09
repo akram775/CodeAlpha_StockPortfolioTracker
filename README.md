@@ -22,3 +22,6 @@ CodeAlpha_StockPortfolioTracker/
 ├── main.py                 Main Python source code
 ├── portfolio.txt          Automatically generated investment report
 └── README.md          Project documentation
+
+Author
+Akramullah khan
