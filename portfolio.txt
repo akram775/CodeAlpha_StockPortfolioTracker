@@ -1,0 +1,12 @@
+STOCK PORTFOLIO REPORT
+----------------------
+
+Stock: AAPL
+Quantity: 3
+Investment: $540
+
+Stock: GOOG
+Quantity: 3
+Investment: $510
+
+Total Investment: $1050
